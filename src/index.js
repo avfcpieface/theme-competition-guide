@@ -1,7 +1,7 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
+      'theme-competition-guide-plugin': {
         cssPath: 'styles/light.css',
         darkMode: false
       }
