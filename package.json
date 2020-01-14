@@ -1,13 +1,12 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@pieface/desktop-wallet-theme-competition",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Desktop Wallet Theme Competition",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "PieFacE",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Theme Template Competition",
     "categories": [
       "theme"
     ],
@@ -27,11 +26,11 @@
     "Author Name"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/avfcpieface/theme-competition-guide/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/avfcpieface/theme-competition-guide",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/avfcpieface/theme-competition-guide.git"
   }
 }
